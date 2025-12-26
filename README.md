@@ -4,12 +4,12 @@ A modern, interactive web application showcasing the MacBook Pro with 3D models,
 
 ![MacBook Pro](public/title.png)
 
-<div>
+<p align="center">
 <img src="https://img.shields.io/badge/-React-58C4DC?style=for-the-badge&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
 <img src="https://img.shields.io/badge/-Three.js-27136A?style=for-the-badge&logo=three.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </div>
+</p>
 
 ## ✨ Features
 
